@@ -7,15 +7,35 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ## Results
 
-- There were total 47 Vine Reviews 
+#### There were total 47 Vine Reviews.
 
-![image](https://user-images.githubusercontent.com/78935551/122655627-bf631600-d121-11eb-842c-fab0aaa29005.png)
+![image](https://user-images.githubusercontent.com/78935551/122655787-3cdb5600-d123-11eb-9cf9-a2065ff9b1d8.png)
 
 
+#### There were total 8362 non-Vine Reviews.
 
-- There were total 8362 non-Vine Reviews
+![image](https://user-images.githubusercontent.com/78935551/122655799-5da3ab80-d123-11eb-9c3b-43594869f46c.png)
 
-![image](https://user-images.githubusercontent.com/78935551/122655693-5760ff80-d122-11eb-92f3-b6c45881d115.png)
+#### 15 Vine reviews were 5 Stars.
+
+![image](https://user-images.githubusercontent.com/78935551/122655838-ac514580-d123-11eb-97f8-cdd404339fa2.png)
+
+
+#### 4332 non-Vine reviews were 5 Stars.
+
+![image](https://user-images.githubusercontent.com/78935551/122655864-ed495a00-d123-11eb-9fc8-943544cc3430.png)
+
+
+#### Approx 32% of Vine reviews were 5 Stars.
+
+![image](https://user-images.githubusercontent.com/78935551/122655876-0d791900-d124-11eb-873c-4648c4d9c9af.png)
+
+
+#### Approx 51.8% of non-Vine reviews were 5 Stars.
+
+![image](https://user-images.githubusercontent.com/78935551/122655906-3d282100-d124-11eb-849d-924b6113f416.png)
+
+
 
 
 
