@@ -1,12 +1,14 @@
-# Amazon_Vine_Analysis
+> # Amazon_Vine_Analysis
 Performing ETL on a database from Amazon.
 
 
-## Overview 
-The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Various Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. Out task was to use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. We used PySpark to determine if there is any bias toward favorable reviews from Vine members in our dataset. For the purpose of this analysis, reviews on Watches were selected as the dataset.
+> ## Overview 
+The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Various Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. Out task was to use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. We used PySpark to determine if there is any bias toward favorable reviews from Vine members in our dataset. 
+
+**For the purpose of this analysis, reviews on Watches were selected as the dataset.**
 
 
-## Results
+> ## Results
 
 ### There were total 47 Vine Reviews.
 
@@ -38,7 +40,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 ![image](https://user-images.githubusercontent.com/78935551/122655906-3d282100-d124-11eb-849d-924b6113f416.png)
 
 
-# Summary For the Watch 
+> # Summary
 - In the Reviews of watches dataset, there were more non-vine reviews than vine reviews, based on the above results.
 - Additionally, more Non-Vine reviews had 5 stars than the Vine reviews.
 - Amazon Vine program was clearly not effective for this product.
