@@ -41,6 +41,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 
 > # Summary
+
 - In the Reviews of watches dataset, there were more non-vine reviews than vine reviews, based on the above results.
 - Additionally, more Non-Vine reviews had 5 stars than the Vine reviews.
 - Amazon Vine program was clearly not effective for this product.
